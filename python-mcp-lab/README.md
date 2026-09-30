@@ -4,13 +4,13 @@ Hands-on MCP projects and experiments built with Python.
 <br>
 
 ## MCP Concepts
-* MCP Concepts Notes: [link](https://github.com/deepa0040/tech-knowledge-base/tree/main/AI/MCP)
+- MCP Concepts Notes: [link](https://github.com/deepa0040/tech-knowledge-base/tree/main/AI/MCP)
 
 <br>
 
 ## Python MCP Project
 Hands-on MCP projects built while learning MCP with Python.
-* [MCP Calculator](./01-calculator-server/) — Python MCP calculator server
+- [MCP Calculator](./01-calculator-server/) — Python MCP calculator server
 
 <br>
 
