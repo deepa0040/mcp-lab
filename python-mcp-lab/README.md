@@ -11,6 +11,9 @@ Hands-on MCP projects and experiments built with Python.
 ## Python MCP Project
 Hands-on MCP projects built while learning MCP with Python.
 - [MCP Calculator](./01-calculator-server/) — Python MCP calculator server
+- [MCP Notes Server](./02-notes-server/) — Python MCP Notes server
+- [MCP Local file explorer](./03-local-file-explorer-server/) — Python MCP file explorer server
+- [MCP Weather](./04-weather-server/) — Python MCP Weather server
 
 <br>
 
